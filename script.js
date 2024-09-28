@@ -45,7 +45,7 @@ alert (`${a}`);
 
 
 
-let one =  parseInt(prompt("1число"));
+let one =  parseInt(prompt("1 число"));
 let two = parseInt(prompt("2 число"));
 
 let amount = (one) + (two);
