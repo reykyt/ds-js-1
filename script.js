@@ -9,6 +9,16 @@ console.log(typeof (z));
 console.log(typeof (w));
 console.log(typeof (v));
 
+let num1 = "10";
+let num2 = "20.5";
+let num2 = "30px";
+console.log(parseInt(num1));
+console.log(parseInt(num2));
+console.log(parseInt(num3));
+
+
+
+
 let k = parseInt ("10.5")
 console.log(k);
 
