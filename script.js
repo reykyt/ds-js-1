@@ -19,13 +19,13 @@ console.log(parseInt(num3));
 
 
 
-let k = parseInt ("10.5")
+let k = parsFload ("10.5")
 console.log(k);
 
-let h = parseInt ("20")
+let h = parsFload ("20")
 console.log(h);
 
-let j = parseInt ("30.25px")
+let j = parsFload ("30.25px")
 console.log(j);
 
 
